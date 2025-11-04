@@ -1,0 +1,6 @@
+# GraphQL queries and mutations for auth feature
+# Example structure:
+# - login.mutation.ts
+# - register.mutation.ts
+# - get-current-user.query.ts
+
